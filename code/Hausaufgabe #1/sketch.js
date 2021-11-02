@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background('rgba(200,190,190,0.6)');
+  background('black');
   
   
   
