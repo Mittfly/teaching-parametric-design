@@ -1,13 +1,13 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(500, 400);
 }
 
 function draw() {
-  background(20);
+  background('rgba(200,190,190,0.6)');
   
   
   
-  
+  /*
   fill('gray');
   stroke('gray');
   circle(200,200,350);
@@ -24,16 +24,16 @@ function draw() {
   stroke('rgba(80,0,50,0.7)');
   square(145,255,110);
 
-
+*/
   
- /*
+ 
  stroke('green');
- fill('rgba(190,0,130,0.4)');
+ fill('rgba(190,0,130,0.3)');
  arc(0,200,100,400,Math.PI/180*270,Math.PI/180*450,PIE);
  arc(50,200,200,400,Math.PI/180*270,Math.PI/180*450,CHORD);
  arc(150,200,300,400,Math.PI/180*270,Math.PI/180*450,CHORD);
  arc(300,200,400,400,Math.PI/180*270,Math.PI/180*450,CHORD);
- */
+ 
 }
 
 
